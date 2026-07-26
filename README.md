@@ -33,6 +33,7 @@ Reproducible in-distribution and OOD evaluation
 - [x] Reproducible Python environment with pinned PyTorch and NumPy versions
 - [x] Procedural addition-problem generator
 - [x] In-memory dataset generation
+- [x] Reproducible generator smoke test with a fixed random seed
 - [ ] Character-level tokenizer
 - [ ] Embeddings and positional information
 - [ ] Causal self-attention and multi-head attention

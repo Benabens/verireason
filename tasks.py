@@ -31,5 +31,6 @@ def generate_dataset(number_of_problems, min_value, max_value):
 
 
 if __name__ == "__main__":
+    random.seed(42)
     dataset = generate_dataset(5, 0, 99)
     print(dataset)
