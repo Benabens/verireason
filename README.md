@@ -34,7 +34,7 @@ Reproducible in-distribution and OOD evaluation
 - [x] Procedural addition-problem generator
 - [x] In-memory dataset generation
 - [x] Reproducible generator smoke test with a fixed random seed
-- [ ] Character-level tokenizer
+- [ ] Character-level tokenizer (vocabulary, encode/decode, BOS/EOS implemented)
 - [ ] Embeddings and positional information
 - [ ] Causal self-attention and multi-head attention
 - [ ] Decoder blocks and language-model head
